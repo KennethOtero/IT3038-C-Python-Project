@@ -1,4 +1,4 @@
-[Carrier],[Tail Number],[Type]
-Cargojet, N767AX, 767
-Mesa Airlines,N650GT,650
-Ameriflight,N762CK,762
+[Carrier],[Tail Number],[Out of Service]
+Cargojet, N767AX,true
+Mesa Airlines,N650GT,false
+Ameriflight,N762CK,true
